@@ -79,6 +79,8 @@ module.exports.register = async server => {
 
   server.auth.default('session')
 
+
+  
   // setup data
   //mockData.hydrate()
 }
